@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -86,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +234,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +246,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -282,7 +270,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Juan (Jingyuan) Qian</a>
+      <a class="navbar-brand" href="index.html">Jiaqi (Jackie) Lu</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -296,7 +284,7 @@ $(document).ready(function () {
   <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="teaching.html">Teaching</a>
+  <a href="experience.html">Experience</a>
 </li>
 <li>
   <a href="zh_cn.html">中文版</a>
@@ -304,19 +292,19 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="https://polisci.wisc.edu/people/graduate-students/jingyuan-juan-qian">
+  <a href="https://polisci.wisc.edu/staff/lu-jiaqi/">
     <span class="fa fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
-  <a href="http://github.com/juan-qian">
+  <a href="http://github.com/jiaqi-lu">
     <span class="fa fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
-  <a href="https://www.linkedin.com/in/juan-j-qian-09397b2a/">
+  <a href="https://www.linkedin.com/in/jiaqi-jackie-lu-88317459/">
     <span class="fa fa-linkedin fa-lg"></span>
      
   </a>
@@ -335,33 +323,12 @@ $(document).ready(function () {
 </div>
 
 
+<p><br> <br> <br></p>
 <div id="full-cv-here." class="section level4">
 <h4>Full <a href="cv.pdf">CV</a> here.</h4>
-</div>
-<div id="education" class="section level3">
-<h3><img src="images/school.png" width="30"> Education</h3>
-<p>    <strong>University of Wisconsin-Madison</strong>, Madison, WI, 2018-Present <br>     PhD in Political Science <br></p>
-<p>    <strong>Georgetown University</strong>, Washington, DC, 2016-2018 <br>     Master of Public Policy <br></p>
-<p>    <strong>Macalester College</strong>, Saint Paul, MN, 2010-2014 <br>     Bachelor of Arts, Political Science and History <br></p>
-</div>
-<div id="research" class="section level3">
-<h3><img src="images/research.png" width="30"> Research</h3>
-<p>    <strong>Duke University</strong>, Durham, NC, July 2016 – May 2018 <br>     Associate in Research, <a href="https://healthpolicy.duke.edu">Duke-Margolis Center</a> at Fuqua School of Business</p>
-<p>    <strong>Macalester College</strong>, Saint Paul, MN, Mar 2013-Apr 2014 <br>     Research Assistant for Dr. Jamie Monson, <a href="http://www.iupress.indiana.edu/product_info.php?products_id=655576">“Africa’s Freedom Railway”</a>, January – April 2014 <br>     Research Assistant for Dr. Yue-Him Tam, <a href="https://www.macalester.edu/~tam/HIST194%20War%20Crimes/Annotated%20Bibliography%20of%20Books%20and%20Videos.html">“Asian War Crimes Archive”</a>, Mar-Aug 2013 <br></p>
-</div>
-<div id="public-policy" class="section level3">
-<h3><img src="images/government.png" width="30"> Public Policy</h3>
-<p>    <strong>American Enterprise Institute</strong>, Washington, DC, January – May 2016 <br>     Research Intern, Economic Studies</p>
-<p>    <strong>Minnesota Governor’s Office</strong>, Saint Paul, MN May – August 2013 <br>     Communications Intern, New Media</p>
-<p>    <strong>Minnesota Senate</strong>, Saint Paul, MN, December 2012 – May 2013 <br>     Legislative Aide, Office of <a href="https://www.senate.mn/members/member_bio.php?member_id=1213">Senator Found Hawj</a></p>
-</div>
-<div id="consulting" class="section level3">
-<h3><img src="images/consulting.png" width="30"> Consulting</h3>
-<p>    <strong>Navigant Consulting</strong>, Washington, DC, May 2015 – December 2015 <br>     Project Employee, Center for Healthcare Policy and Analysis (see <a href="Publications/portfolio.pdf">here</a> for a sample project)</p>
-<p>    <strong>European Union Chamber of Commerce in China</strong>, Shanghai, China, May 2014 – August 2014 <br>     Assistant to Government Affairs and Working Groups</p>
 <br> <br> <br>
 <center>
-Copyright © Juan Qian, 2019
+Copyright © Jiaqi (Jackie) Lu, 2020
 <center>
 <p>I built my website with <img src="images/rstudio-logo.png" width="30">. You should <a href="https://rmarkdown.rstudio.com/">try it</a> too.</p>
 </div>
@@ -383,6 +350,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

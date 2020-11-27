@@ -1,9 +1,9 @@
-name: "Juan Qian"
+name: "Jiaqi (Jackie) Lu"
 title: "PhD Student at UW-Madison"
 description: |
 output_dir: "."
 navbar:
-  title: "Juan (Jingyuan) Qian"
+  title: "Jiaqi (Jackie) Lu"
   left:
     - text: "Home"
       href: index.html
@@ -11,17 +11,17 @@ navbar:
       href: about.html
     - text: "Research"
       href: research.html
-    - text: "Teaching"
-      href: teaching.html
+    - text: "Experience"
+      href: experience.html
     - text: "中文版"
       href: zh_cn.html
   right:
     - icon: fa-envelope fa-lg
-      href: https://polisci.wisc.edu/people/graduate-students/jingyuan-juan-qian
+      href: https://polisci.wisc.edu/staff/lu-jiaqi/
     - icon: fa-github fa-lg
-      href: http://github.com/juan-qian
+      href: http://github.com/jiaqi-lu
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/juan-j-qian-09397b2a/
+      href: https://www.linkedin.com/in/jiaqi-jackie-lu-88317459/
 
 output:
   html_document:

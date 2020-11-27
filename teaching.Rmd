@@ -1,36 +1,24 @@
 ---
-title: "Teaching"
+title: "Professional Experience"
 output: html_document
 ---
-Previously, I served as a Teaching Assistant or a sole instructor for various classes. I enjoyed helping my students succeed in their classes. All the material I prepared for my teaching sessions are **made public**.
+<br> <br>
+
+### As Policy Researcher
+From 2015 to 2018, I worked as a research analyst at the [Brookings Institution](https://www.brookings.edu/). Previously, I also have working experience at the [World Resource Institute](https://www.wri.org/).
 <br> <br>
 
 ### As Teaching Assistant/Associate
 
 **University of Wisconsin-Madison**, Madison, WI <br>
-[POLI120: Politics Around the World](https://polisci.wisc.edu/sites/polisci.wisc.edu/files/documents/syllabi/PS%20120%20Syllabus-%20Nils%20Ringe_0.pdf) (Fall 2018; [Spring 2019](poli120.html); [Fall 2019](poli120_fall19.html)) <br>
-Teaching Assistant for Dr. Nils Ringe and Dr. Steven Brooke
+[POLI120: Politics Around the World](https://polisci.wisc.edu/sites/polisci.wisc.edu/files/documents/syllabi/PS%20120%20Syllabus-%20Nils%20Ringe_0.pdf) (Spring 2020) <br>
+Teaching Assistant for Dr. Jon C. Pevehouse
 <br>
-<br>
-**Georgetown University**, Washington, DC <br>
-[PPOL649: Intermediate Macroeconomics](/teaching_files/PPOL649_syllabus.pdf) ([Spring 2017](ppol649.html)) <br>
-Teaching Associate for Dr. Rakia Moalla-Fetini
-<br>
-<br>
-**Macalester College**, St. Paul, MN <br>
-[ASIA378: War Crimes and Memory in East Asia](https://catalog.macalester.edu/preview_course.php?catoid=21&coid=112343) (Spring 2013) <br>
-Teaching Assistant for Dr. Yue-him Tam
-<br> <br>
 
-
-### As Sole Instructor
-**Veritas Academy**, Beijing, China <br>
-[B1: Introduction to Political Economy](/teaching_files/PPOL649_syllabus.pdf) (Summer 2018) <br>
-**<img src="images/download.png" width="20"> Download**: [Lecture Notes](veritas2018.html) 
 <br>
 <br>
 <br>
-<center> Copyright © Juan Qian, 2019
+<center> Copyright © Jiaqi (Jackie) Lu, 2020
 <center>  I built my website with <img src="images/rstudio-logo.png" width="30"> . You should [try it](https://rmarkdown.rstudio.com/) too.
 
 

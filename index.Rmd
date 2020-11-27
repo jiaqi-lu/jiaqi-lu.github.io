@@ -1,16 +1,14 @@
 ---
-title: "About Juan Qian"
+title: "About Jiaqi (Jackie) Lu"
 fontsize: 12pt
 ---
 <br>
-<img src="juan.jpg" style="width:30%; margin-right: 20px" align="left">
-Welcome. My name is Juan Qian, and I am a PhD student in the [Political Science Department](https://polisci.wisc.edu/) at [University of Wisconsin-Madison](https://www.wisc.edu/). My major fields are comparative politics and methodology. 
+<img src="jlu.jpg" style="width:30%; margin-right: 20px" align="left">
+Welcome. My name is Jiaqi (Jackie) Lu. I am a Ph.D. student in the  [Department of Political Science](https://polisci.wisc.edu/) and [Nelson Institute for Environmental Studies](https://nelson.wisc.edu/) (joint Ph.D. program) at the [University of Wisconsin–Madison](https://www.wisc.edu/). My research interests include the political economy of energy transitions and climate change, as well as the intersection of governance and technology development. My research has appeared or forthcoming in Nature Geoscience, Energy Policy, Environmental Research Letter, and so on. 
 
-My research interests are identities and narratives in politics. Theoretically, I am interested in how political identities are formed, evolved over time, transmitted through narratives, and spreaded via social networks. My current work focuses on developing a new class of formal model to capture the role of political identity. Empirically, I am interested in the origins of nationalism in modern China.
+I received my B.A. in Sociology and M.A. in International Public Affairs (2014) from UW-Madison. Before coming back to Madison for Ph.D. in 2018, I was a research analyst at the [Brookings Institution](https://www.brookings.edu/) (2015-2018), where I worked on energy and climate policy. 
 
-Before coming to Wisconsin, I graduated from [Macalester College](http://www.macalester.edu) with a B.A. in political science in 2014 and obtained my Master of Public Policy from [Georgetown University](http://www.georgetown.edu) in 2016. Between 2016 and 2018, I worked as a Senior Research Assistant at Duke University's [Margolis Center](http://healthpolicy.duke.edu).
-
-I welcome any advice and feedback about my research work. If you would like to reach me in person, please do not hesitate to [send me an email](mailto:jqian3@wisc.edu).
+I welcome any advice and feedback about my research work. If you would like to reach me in person, please do not. hesitate to [send me an email](mailto:jackie.lu@wisc.edu)
 <br>
 <br>
 <br>
@@ -18,7 +16,7 @@ I welcome any advice and feedback about my research work. If you would like to r
 <br>
 <br>
 <br>
-<center> Copyright © Juan Qian, 2019
+<center> Copyright © Jiaqi (Jackie) Lu, 2020
 <center>  I built my website with <img src="images/rstudio-logo.png" width="30">. You should [try it](https://rmarkdown.rstudio.com/) too.
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -27,4 +25,3 @@ knitr::opts_chunk$set(echo = TRUE)
 # https://rstudio.github.io/distill/website.html
 
 ```
-
