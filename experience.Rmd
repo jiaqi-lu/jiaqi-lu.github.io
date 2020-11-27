@@ -5,13 +5,13 @@ output: html_document
 <br> <br>
 
 ### As Policy Researcher
-From 2015 to 2018, I worked as a research analyst at the [Brookings Institution](https://www.brookings.edu/). Previously, I worked at the [World Resource Institute](https://www.wri.org/).
+From 2015 to 2018, I worked as a research analyst at the [Brookings Institution](https://www.brookings.edu/). Previously, I also worked at the [World Resource Institute](https://www.wri.org/).
 <br> <br>
 
 ### As Teaching Assistant/Associate
 
 **University of Wisconsin-Madison**, Madison, WI <br>
-POLI140: Intro to International Relations (Spring 2020) <br>
+POLI140: Intro to International Relations (Spring 2021) <br>
 Teaching Assistant for Dr. Jon C. Pevehouse
 <br>
 
