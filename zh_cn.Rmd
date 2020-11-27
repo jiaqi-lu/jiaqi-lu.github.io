@@ -24,6 +24,7 @@ output: html_document
 <br>
 <br>
 <br>
+<br>
 <center> 版权所有 © 芦佳琪, 2020
 <center>  本网站用 <img src="images/rstudio-logo.png" width="30">制作。如果觉得好看，我推荐用 [R Markdown](https://rmarkdown.rstudio.com/) 制作个人网站.
 
