@@ -17,40 +17,40 @@ My research interests include the political economy of energy transitions and cl
 2. “Systematic Map: Policy Implications of the Energy Transitions Literature.” Environmental Research Letters, forthcoming 2020 (with Gregory Nemet)
 <br>
 
-3. “Knowledge spillovers between PV installers can reduce the cost of installing solar PV.” Energy Policy 144 (2020): 111600. (with G. Nemet, V. Rai, and R. Rao)
+3. [“Knowledge spillovers between PV installers can reduce the cost of installing solar PV.”](https://www.sciencedirect.com/science/article/abs/pii/S0301421520303384) Energy Policy 144 (2020): 111600. (with G. Nemet, V. Rai, and R. Rao)
 <br>
 
-4. “The Policy-Driven Peak and Reduction of China’s Carbon Emissions.” Advances in Climate Change Research (2020). (with Qi, Y., N. Stern, D. King, T. Wu, & T. Liu)
+4. [“The Policy-Driven Peak and Reduction of China’s Carbon Emissions.”](https://www.sciencedirect.com/science/article/pii/S1674927820300265#:~:text=Pursuant%20to%20the%20Paris%20Agreement,20%25%20at%20the%20same%20time.&text=Such%20developments%20would%20be%20consistent,renewable%20power%20generation%20by%202030.) Advances in Climate Change Research (2020). (with Qi, Y., N. Stern, D. King, T. Wu, & T. Liu)
 <br>
 
 5. “Investigation of a coupling coordination degree model between low-carbon development and air quality in China.” under review at Science of the Total Environment (with T. Liu and Q. Song)
 <br>
 
-6. “Jurisdictional Air Pollution Regulation in China: A Tragedy of the Regulatory Anti-commons.” Journal of Cleaner Production 212 (2019): 1054-1061. (with Shihong Guo)
+6. [“Jurisdictional Air Pollution Regulation in China: A Tragedy of the Regulatory Anti-commons.”](https://www.sciencedirect.com/science/article/abs/pii/S0959652618337703#:~:text=The%20results%20show%20that%20jurisdictional,of%20the%20regulatory%20anti%2Dcommons.) Journal of Cleaner Production 212 (2019): 1054-1061. (with Shihong Guo)
  <br>
  
-7. “The China Wind Paradox: The Role of State-Owned Enterprises in Wind Power Investment versus Wind Curtailment.” Energy Policy 127 (2019): 200-212. (with Zhu, M., Qi, Y. & Kerremans, B.) 
+7. [“The China Wind Paradox: The Role of State-Owned Enterprises in Wind Power Investment versus Wind Curtailment.”](https://www.sciencedirect.com/science/article/abs/pii/S0301421518307134) Energy Policy 127 (2019): 200-212. (with Zhu, M., Qi, Y. & Kerremans, B.) 
  <br>
  
-8. “Wind Curtailment in China: A Mismatch Between New Technology and Old Electricity System.” Brookings Press (2017). (with Qi, Y., & Zhu, M.)
+8. [“Wind Curtailment in China: A Mismatch Between New Technology and Old Electricity System.”](https://www.brookings.edu/research/wind-curtailment-in-china-and-lessons-from-the-united-states/) Brookings Press (2017). (with Qi, Y., & Zhu, M.)
 <br>
 
-9. “China’s Post-Coal Growth.” Nature Geoscience 9, no. 8 (2016): 564-566. (with Qi, Y., N. Stern, T. Wu, & F. Green.) 
+9. [“China’s Post-Coal Growth.”](https://www.nature.com/articles/ngeo2777) Nature Geoscience 9, no. 8 (2016): 564-566. (with Qi, Y., N. Stern, T. Wu, & F. Green.) 
  <br>
  
-10. “The Effects of Expert Selection, Elicitation Design, and R&D Assumptions on Experts' Estimates of the Future Costs of Photovoltaics.” Energy Policy 80 (2015): 233-243. (with Verdolini, E., Anadon, L. D., & Nemet, G. F)
+10. [“The Effects of Expert Selection, Elicitation Design, and R&D Assumptions on Experts' Estimates of the Future Costs of Photovoltaics.”](https://www.sciencedirect.com/science/article/abs/pii/S0301421515000075) Energy Policy 80 (2015): 233-243. (with Verdolini, E., Anadon, L. D., & Nemet, G. F)
 
 <br>
 <br>
 
 ### <img src="images/journal.png" width="25"> Other Publications:
-1. “U.S. Gas to China: Positive Energy for Bilateral Relations.” Brookings Op-ed. 2018. (with Qi, Y.)
+1. [“U.S. Gas to China: Positive Energy for Bilateral Relations.”](https://www.brookings.edu/2018/05/31/u-s-gas-to-china-positive-energy-for-bilateral-relations/) Brookings Op-ed. 2018. (with Qi, Y.)
  <br>
 
-2.	“China’s Coal Consumption Has Peaked.” China Daily Op-ed. 2017. (with Qi, Y.)
+2.	[“China’s Coal Consumption Has Peaked.”](https://www.brookings.edu/2018/01/22/chinas-coal-consumption-has-peaked/) China Daily Op-ed. 2017. (with Qi, Y.)
  <br>
 
-3. “The End of Coal-Fired Growth in China.” Brookings Op-ed. 2016. (with Qi, Y.)
+3. [“The End of Coal-Fired Growth in China.”](https://www.brookings.edu/blog/up-front/2016/08/04/the-end-of-coal-fired-growth-in-china/) Brookings Op-ed. 2016. (with Qi, Y.)
  <br>
 
 4. “Expanding Solar in Wisconsin: A Review of Policy Alternatives.” EAP Capstone Paper No. 2014-01, 2014. Renew Wisconsin. (with Kaldunski, B., and J. Medina)
@@ -59,7 +59,7 @@ My research interests include the political economy of energy transitions and cl
 5. “Renewable Energy-Based Microgrids in Wisconsin: A Cost-Benefit Analysis.” Working Paper. 2013. Wisconsin Energy Institute. (with Brandt, T., B. Kaldunski, M. Meckel, and Y. Su)
  <br>
 
-6. “State-Based Childhood Obesity Prevention.” 2013. National Champion of Policy Solutions Challenge USA. (with Eadie, S., M. Palmer, N. J. Simon, and A. Walsh)
+6. [“State-Based Childhood Obesity Prevention.”](http://policychallenge-usa.org/nationals-2013.html) 2013. National Champion of Policy Solutions Challenge USA. (with Eadie, S., M. Palmer, N. J. Simon, and A. Walsh)
  <br>
  <br>
  <br>
