@@ -14,10 +14,11 @@ output: html_document
 
 ### 中文时评
 
-1. [中国弃风问题与美国经验。](https://www.brookings.edu/zh-cn/research/wind-curtailment-in-china-and-lessons-from-the-united-states-2/)布鲁金斯学会，2018年3月4日
-2. [中国煤炭消费真的已经达峰了吗？](https://www.brookings.edu/zh-cn/2018/01/22/chinas-coal-consumption-has-peaked-2/)中国日报，2018年1月22日
+1. [中国弃风问题与美国经验。](https://www.brookings.edu/zh-cn/research/wind-curtailment-in-china-and-lessons-from-the-united-states-2/) 布鲁金斯学会，2018年3月4日
+2. [中国煤炭消费真的已经达峰了吗？](https://www.brookings.edu/zh-cn/2018/01/22/chinas-coal-consumption-has-peaked-2/) 中国日报，2018年1月22日
+3. [煤改清洁能源， 英国人是怎么做的?](http://weekly.caixin.com/2018-02-24/101213379.html) 政见，2017年12月9日
 3. [中国经济增长与煤炭消费增长脱钩。](http://epaper.gmw.cn/gmrb/html/2016-08/05/nw.D110000gmrb_20160805_6-11.htm) 光明日报，2016年08月05日
-4. [中国进入新增长阶段 煤炭驱动型增长终结。](https://www.brookings.edu/zh-cn/opinions/%e4%b8%ad%e5%9b%bd%e8%bf%9b%e5%85%a5%e6%96%b0%e5%a2%9e%e9%95%bf%e9%98%b6%e6%ae%b5-%e7%85%a4%e7%82%ad%e9%a9%b1%e5%8a%a8%e5%9e%8b%e5%a2%9e%e9%95%bf%e7%bb%88%e7%bb%93/)布鲁金斯学会，2016年7月28日
+4. [中国进入新增长阶段 煤炭驱动型增长终结。](https://www.brookings.edu/zh-cn/opinions/%e4%b8%ad%e5%9b%bd%e8%bf%9b%e5%85%a5%e6%96%b0%e5%a2%9e%e9%95%bf%e9%98%b6%e6%ae%b5-%e7%85%a4%e7%82%ad%e9%a9%b1%e5%8a%a8%e5%9e%8b%e5%a2%9e%e9%95%bf%e7%bb%88%e7%bb%93/) 布鲁金斯学会，2016年7月28日
 
 
 <br>
