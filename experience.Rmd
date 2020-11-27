@@ -5,7 +5,7 @@ output: html_document
 <br> <br>
 
 ### As Policy Researcher
-From 2015 to 2018, I worked as a research analyst at the [Brookings Institution](https://www.brookings.edu/). Previously, I also have working experience at the [World Resource Institute](https://www.wri.org/).
+From 2015 to 2018, I worked as a research analyst at the [Brookings Institution](https://www.brookings.edu/). Previously, I worked at the [World Resource Institute](https://www.wri.org/).
 <br> <br>
 
 ### As Teaching Assistant/Associate
