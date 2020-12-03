@@ -4,11 +4,11 @@ output: html_document
 ---
 <br> <br>
 
-### As Policy Researcher
-From 2015 to 2018, I worked as a research analyst at the [Brookings Institution](https://www.brookings.edu/). Previously, I also worked at the [World Resource Institute](https://www.wri.org/).
+### <img src="images/government.png" width="25"> As Policy Researcher
+From 2015 to 2018, I was a research analyst at the [Brookings Institution](https://www.brookings.edu/). Previously, I also worked at the [World Resource Institute](https://www.wri.org/).
 <br> <br>
 
-### As Teaching Assistant/Associate
+### <img src="images/teaching.png" width="25"> As Teaching Assistant/Associate
 
 **University of Wisconsin-Madison**, Madison, WI <br>
 POLI140: Intro to International Relations (Spring 2021) <br>

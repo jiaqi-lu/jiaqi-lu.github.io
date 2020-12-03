@@ -9,12 +9,12 @@ My research interests include the political economy of energy transitions and cl
 <br>
 <br>
 
-### <img src="images/journal.png" width="25"> Peer-Reviewed Articles and Reports
+### <img src="images/journal.png" width="25"> Peer-Reviewed Articles, Book Chapters and Reports
 
 1. “The Politics of Coal in the United States.” Book chapter, Political Determinants of Energy and Climate Policy, Routledge Press, forthcoming 2021, with Gregory Nemet 
  <br>
  
-2. “Systematic Map: Policy Implications of the Energy Transitions Literature.” Environmental Research Letters, forthcoming 2020 (with Gregory Nemet)
+2. [“Evidence Map: Policy Implications of the Energy Transitions Literature.”](https://iopscience.iop.org/article/10.1088/1748-9326/abc195/meta) Environmental Research Letters (2020). (with Gregory Nemet)
 <br>
 
 3. [“Knowledge spillovers between PV installers can reduce the cost of installing solar PV.”](https://www.sciencedirect.com/science/article/abs/pii/S0301421520303384) Energy Policy 144 (2020): 111600. (with G. Nemet, V. Rai, and R. Rao)
@@ -43,7 +43,7 @@ My research interests include the political economy of energy transitions and cl
 <br>
 <br>
 
-### <img src="images/journal.png" width="25"> Other Publications:
+### <img src="images/working_paper.png" width="25"> Other Publications:
 1. [“U.S. Gas to China: Positive Energy for Bilateral Relations.”](https://www.brookings.edu/2018/05/31/u-s-gas-to-china-positive-energy-for-bilateral-relations/) Brookings Op-ed. 2018. (with Qi, Y.)
  <br>
 
