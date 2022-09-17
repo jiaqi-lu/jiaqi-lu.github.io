@@ -11,14 +11,19 @@ From 2015 to 2018, I was a research analyst at the [Brookings Institution](https
 ### <img src="images/teaching.png" width="25"> As Teaching Assistant/Associate
 
 **University of Wisconsin-Madison**, Madison, WI <br>
-POLI140: Intro to International Relations (Spring 2021) <br>
+Envir St 349: Climate Change Governance (Fall 2022) <br>
+Teaching Assistant for Dr. Jon C. Pevehouse
+<br>
+
+**University of Wisconsin-Madison**, Madison, WI <br>
+POLI 140: Intro to International Relations (Spring 2021) <br>
 Teaching Assistant for Dr. Jon C. Pevehouse
 <br>
 
 <br>
 <br>
 <br>
-<center> Copyright © Jiaqi (Jackie) Lu, 2020
+<center> Copyright © Jiaqi (Jackie) Lu, 2022
 <center>  I built my website with <img src="images/rstudio-logo.png" width="30"> . You should [try it](https://rmarkdown.rstudio.com/) too.
 
 

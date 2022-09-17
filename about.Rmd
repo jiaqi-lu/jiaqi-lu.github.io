@@ -12,7 +12,7 @@ description: |
 <br>
 <br>
 <br>
-<center> Copyright © Jiaqi (Jackie) Lu, 2020
+<center> Copyright © Jiaqi (Jackie) Lu, 2022
 <center>  I built my website with <img src="images/rstudio-logo.png" width="30">. You should [try it](https://rmarkdown.rstudio.com/) too.
 
 ```{r setup, include=FALSE}
