@@ -11,26 +11,40 @@
 
 
 
-<title>zh_cn.utf8</title>
+<title>zh_cn.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -79,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +85,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 41px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h2 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h3 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h4 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h5 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h6 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +122,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +134,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +145,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +173,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -265,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -314,7 +288,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -325,22 +299,38 @@ $(document).ready(function () {
 <p><br></p>
 <div id="个人简历" class="section level3">
 <h3>个人简历</h3>
-<p>芦佳琪，哈佛大学肯尼迪政府学院研究员，威斯康星大学麦迪逊分校政治系及环境系博士研究生。主要研究方向为比较政治学(Comparative Politics)和国际关系(International Relations)，专注于能源及气候变化政策等方面的研究。曾在布鲁金斯学会及世界资源研究所等机构任职。 <br> <br> <br></p>
+<p>芦佳琪，哈佛大学肯尼迪政府学院研究员，威斯康星大学麦迪逊分校政治系及环境系博士研究生。主要研究方向为比较政治学(Comparative
+Politics)和国际关系(International
+Relations)，专注于能源及气候变化政策等方面的研究。曾在布鲁金斯学会及世界资源研究所等机构任职。
+<br> <br> <br></p>
 </div>
 <div id="中文时评" class="section level3">
 <h3>中文时评</h3>
 <ol style="list-style-type: decimal">
-<li><a href="https://www.brookings.edu/zh-cn/research/wind-curtailment-in-china-and-lessons-from-the-united-states-2/">中国弃风问题与美国经验。</a> 布鲁金斯学会，2018年3月4日</li>
-<li><a href="https://www.brookings.edu/zh-cn/2018/01/22/chinas-coal-consumption-has-peaked-2/">中国煤炭消费真的已经达峰了吗？</a> 中国日报，2018年1月22日</li>
-<li><a href="http://weekly.caixin.com/2018-02-24/101213379.html">煤改清洁能源， 英国人是怎么做的？</a> 政见，2017年12月9日</li>
-<li><a href="http://epaper.gmw.cn/gmrb/html/2016-08/05/nw.D110000gmrb_20160805_6-11.htm">中国经济增长与煤炭消费增长脱钩。</a> 光明日报，2016年08月05日</li>
-<li><a href="https://www.brookings.edu/zh-cn/opinions/%e4%b8%ad%e5%9b%bd%e8%bf%9b%e5%85%a5%e6%96%b0%e5%a2%9e%e9%95%bf%e9%98%b6%e6%ae%b5-%e7%85%a4%e7%82%ad%e9%a9%b1%e5%8a%a8%e5%9e%8b%e5%a2%9e%e9%95%bf%e7%bb%88%e7%bb%93/">中国进入新增长阶段 煤炭驱动型增长终结。</a> 布鲁金斯学会，2016年7月28日</li>
+<li><a
+href="https://www.brookings.edu/zh-cn/research/wind-curtailment-in-china-and-lessons-from-the-united-states-2/">中国弃风问题与美国经验。</a>
+布鲁金斯学会，2018年3月4日</li>
+<li><a
+href="https://www.brookings.edu/zh-cn/2018/01/22/chinas-coal-consumption-has-peaked-2/">中国煤炭消费真的已经达峰了吗？</a>
+中国日报，2018年1月22日</li>
+<li><a
+href="http://weekly.caixin.com/2018-02-24/101213379.html">煤改清洁能源，
+英国人是怎么做的？</a> 政见，2017年12月9日</li>
+<li><a
+href="http://epaper.gmw.cn/gmrb/html/2016-08/05/nw.D110000gmrb_20160805_6-11.htm">中国经济增长与煤炭消费增长脱钩。</a>
+光明日报，2016年08月05日</li>
+<li><a
+href="https://www.brookings.edu/zh-cn/opinions/%e4%b8%ad%e5%9b%bd%e8%bf%9b%e5%85%a5%e6%96%b0%e5%a2%9e%e9%95%bf%e9%98%b6%e6%ae%b5-%e7%85%a4%e7%82%ad%e9%a9%b1%e5%8a%a8%e5%9e%8b%e5%a2%9e%e9%95%bf%e7%bb%88%e7%bb%93/">中国进入新增长阶段
+煤炭驱动型增长终结。</a> 布鲁金斯学会，2016年7月28日</li>
 </ol>
 <br> <br> <br> <br> <br>
 <center>
 版权所有 © 芦佳琪, 2020
 <center>
-<p>本网站用 <img src="images/rstudio-logo.png" width="30">制作。如果觉得好看，我推荐用 <a href="https://rmarkdown.rstudio.com/">R Markdown</a> 制作个人网站.</p>
+<p>本网站用
+<img src="images/rstudio-logo.png" width="30">制作。如果觉得好看，我推荐用
+<a href="https://rmarkdown.rstudio.com/">R Markdown</a>
+制作个人网站.</p>
 </div>
 
 
@@ -352,7 +342,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -370,7 +360,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
