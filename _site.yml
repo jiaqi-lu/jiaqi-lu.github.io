@@ -25,5 +25,5 @@ navbar:
 
 output:
   html_document:
-    theme: simplex
+    theme: sandstone
     css: 'styles.css'

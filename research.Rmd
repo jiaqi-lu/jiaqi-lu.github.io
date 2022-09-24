@@ -18,7 +18,7 @@ __Abstract:__ Policymakers often engage in networks of social relations involvin
 
 ### <img src="images/journal.png" width="25"> Peer-Reviewed Articles, Book Chapters and Reports
 
-1. [“To End Coal, Adapt to Regional Realities”](https://www.nature.com/articles/d41586-022-01828-3)  on \emph{Nature} (2022): 29-31 (co-signatories with Michael Jakob, Jan Steckel, Gregory Nemet, et al.)
+1. [“To End Coal, Adapt to Regional Realities”](https://www.nature.com/articles/d41586-022-01828-3)  Nature (2022): 29-31 (co-signatories with Michael Jakob, Jan Steckel, Gregory Nemet, et al.)
 ```{r}
 
 ```
