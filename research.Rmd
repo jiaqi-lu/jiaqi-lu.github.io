@@ -22,8 +22,9 @@ __Abstract:__ Policymakers often engage in networks of social relations involvin
 ```{r}
 
 ```
+1. ["When green recovery fails to consider coal pushback: Exploring global coal rebounds, production, and policy retrenchment post Covid-19."](https://www.sciencedirect.com/science/article/pii/S2214629623002025?casa_token=CSfPYjNuryMAAAAA:vKdj9uqBrwPYm3DL1FJgEx9l0CoiRjFkPxcM1jdNyMDutaOZoeklewlLfD_h1QdTpo-TGF1s2w) Energy Research & Social Science 101 (2023) (with Fang Zhang and Libo Chen)
 
-1. [“Market-led decline amidst intense politicization.”](https://www.routledge.com/The-Political-Economy-of-Coal-Obstacles-to-Clean-Energy-Transitions/Jakob-Steckel/p/book/9780367491024) Book chapter, The Political Economy of Coal: Obstacles to Clean Energy Transitions, Routledge Press, Feb. 2022, with Gregory Nemet 
+2. [“Market-led decline amidst intense politicization.”](https://www.routledge.com/The-Political-Economy-of-Coal-Obstacles-to-Clean-Energy-Transitions/Jakob-Steckel/p/book/9780367491024) Book chapter, The Political Economy of Coal: Obstacles to Clean Energy Transitions, Routledge Press (2022) (with Gregory Nemet) 
 
 9. [“Investigation of a coupling coordination degree model between low-carbon development and air quality in China.”](https://www.sciencedirect.com/science/article/pii/S167492782100109X) Advances in Climate Change Research (2021) (with Liu Tianle, Song Qijiao and Qi Ye)
 <br>
@@ -43,8 +44,7 @@ __Abstract:__ Policymakers often engage in networks of social relations involvin
 4. [“The China Wind Paradox: The Role of State-Owned Enterprises in Wind Power Investment versus Wind Curtailment.”](https://www.sciencedirect.com/science/article/abs/pii/S0301421518307134) Energy Policy 127 (2019): 200-212. (with Zhu Mengye, Qi Ye, David Belis, Bart Kerremans) 
  <br>
  
-3. [“Wind Curtailment in China: A Mismatch Between New Technology and Old Electricity System.”](https://www.brookings.edu/research/wind-curtailment-in-china-and-lessons-from-the-united-states/) Brookings Press (2017). (with Qi Ye, Zhu Mengye)
-<br>
+
 
 2. [“China’s Post-Coal Growth.”](https://www.nature.com/articles/ngeo2777) Nature Geoscience 9, no. 8 (2016): 564-566. (with Qi Ye, Nicholas Stern, Tong Wu, Fergus Green) 
  <br>
@@ -60,13 +60,16 @@ __Abstract:__ Policymakers often engage in networks of social relations involvin
 2. [“U.S. Gas to China: Positive Energy for Bilateral Relations.”](https://www.brookings.edu/2018/05/31/u-s-gas-to-china-positive-energy-for-bilateral-relations/) Brookings Op-ed. 2018. (with Qi Ye)
  <br>
 
-3.	[“China’s Coal Consumption Has Peaked.”](https://www.brookings.edu/2018/01/22/chinas-coal-consumption-has-peaked/) China Daily Op-ed. 2017. (with Qi Ye)
+3. [“Wind Curtailment in China: A Mismatch Between New Technology and Old Electricity System.”](https://www.brookings.edu/research/wind-curtailment-in-china-and-lessons-from-the-united-states/) Brookings Press (2017). (with Qi Ye, Zhu Mengye)
+<br>
+
+4.	[“China’s Coal Consumption Has Peaked.”](https://www.brookings.edu/2018/01/22/chinas-coal-consumption-has-peaked/) China Daily Op-ed. 2017. (with Qi Ye)
  <br>
 
-4. [“The End of Coal-Fired Growth in China.”](https://www.brookings.edu/blog/up-front/2016/08/04/the-end-of-coal-fired-growth-in-china/) Brookings Op-ed. 2016. (with Qi Ye)
+5. [“The End of Coal-Fired Growth in China.”](https://www.brookings.edu/blog/up-front/2016/08/04/the-end-of-coal-fired-growth-in-china/) Brookings Op-ed. 2016. (with Qi Ye)
  <br>
 
-5. [“State-Based Childhood Obesity Prevention.”](http://policychallenge-usa.org/nationals-2013.html) 2013. National Champion of Policy Solutions Challenge USA. (with Eadie, S., M. Palmer, N. J. Simon, and A. Walsh)
+6. [“State-Based Childhood Obesity Prevention.”](http://policychallenge-usa.org/nationals-2013.html) 2013. National Champion of Policy Solutions Challenge USA. (with Eadie, S., M. Palmer, N. J. Simon, and A. Walsh)
  <br>
  <br>
  <br>
