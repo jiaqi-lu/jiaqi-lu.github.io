@@ -15,9 +15,12 @@ My research interests include the political economy of energy transitions and cl
 ```{r}
 
 ```
-1. ["When Green Recovery Fails to Consider Coal Pushback: Exploring global coal rebounds, production, and policy retrenchment post Covid-19."](https://www.sciencedirect.com/science/article/pii/S2214629623002025?casa_token=CSfPYjNuryMAAAAA:vKdj9uqBrwPYm3DL1FJgEx9l0CoiRjFkPxcM1jdNyMDutaOZoeklewlLfD_h1QdTpo-TGF1s2w) Energy Research & Social Science 101 (2023) (with Fang Zhang and Libo Chen)
+1. ["Measuring Energy Transition Away from Fossil Fuels: A New Index."]({https://www.sciencedirect.com/science/article/abs/pii/S1364032124002697}) {Renewable and Sustainable Energy Reviews} 200 (2024) (with Qi Ye and Tianle Liu)
 
-2. [“Market-led decline amidst intense politicization.”](https://www.routledge.com/The-Political-Economy-of-Coal-Obstacles-to-Clean-Energy-Transitions/Jakob-Steckel/p/book/9780367491024) Book chapter, The Political Economy of Coal: Obstacles to Clean Energy Transitions, Routledge Press (2022) (with Gregory Nemet) 
+
+2. ["When Green Recovery Fails to Consider Coal Pushback: Exploring global coal rebounds, production, and policy retrenchment post Covid-19."](https://www.sciencedirect.com/science/article/pii/S2214629623002025?casa_token=CSfPYjNuryMAAAAA:vKdj9uqBrwPYm3DL1FJgEx9l0CoiRjFkPxcM1jdNyMDutaOZoeklewlLfD_h1QdTpo-TGF1s2w) Energy Research & Social Science 101 (2023) (with Fang Zhang and Libo Chen)
+
+3. [“Market-led decline amidst intense politicization.”](https://www.routledge.com/The-Political-Economy-of-Coal-Obstacles-to-Clean-Energy-Transitions/Jakob-Steckel/p/book/9780367491024) Book chapter, The Political Economy of Coal: Obstacles to Clean Energy Transitions, Routledge Press (2022) (with Gregory Nemet) 
 
 9. [“Investigation of a coupling coordination degree model between low-carbon development and air quality in China.”](https://www.sciencedirect.com/science/article/pii/S167492782100109X) Advances in Climate Change Research (2021) (with Liu Tianle, Song Qijiao and Qi Ye)
 <br>
